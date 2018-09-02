@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import csv
 from Game import Game
-#an update to learn how to pull and merge
+#an update to learn how to pull and merge, and another update to make sure I can push
 
 def main():
 	with open('KataraLi_SAT_Q1_BBALL.csv', 'w') as f:
